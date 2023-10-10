@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import { ThemeProvider } from '@mui/material';
 import { Typography } from '@mui/material';
+import { ThemeProvider } from '@mui/material/styles';
 import theme from './theme'
 
 function App() {
